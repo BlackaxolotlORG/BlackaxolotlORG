@@ -7,11 +7,9 @@
 ##  **About me**
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught Full-stack Developer
+- Currently studying Engineering in Computer Science and Technology
+- Personal website [link](https://dlasportfolio.blob.core.windows.net/$web/index.html)
 
 <br><br>
 <!--- Skills (start) -->
@@ -58,3 +56,5 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
+
+<a href="https://www.linkedin.com/in/diego-lopez-araiza-soto-a17184260/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin," />
