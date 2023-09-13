@@ -17,6 +17,13 @@
 <!--- Skills (start) -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,au,autocad,aws,azure,blender,c,codepen,css,discord,figma,git,github,html,ai,js,latex,matlab,mysql,nextjs,nodejs,ps,php,postgres,pr,py,r,rails,replit,ruby,stackoverflow,svg,unity,unreal,visualstudio,vscode,wordpress,xd&perline=14" />
+  </a>
+</p>
 <!--- stats (start) -->
 <br>
 
@@ -34,6 +41,18 @@
 </div>
 
 <br>
+
+<!--- trophy (start) -->
+<br>
+	
+##  **Trophies**
+<br>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=BlackaxolotlORG&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 <!--- Lets connect (start) -->
 <br>
 
